@@ -1,0 +1,70 @@
+.container {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #1588f3;
+    padding: 20px;
+    text-align: center;
+    }
+    
+    h1 {
+    color: #fff;
+    font-size: 32px;
+    }
+    
+    form {
+    margin-top: 20px;
+    }
+    
+    input[type="file"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    }
+    
+    button[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #1588f3;
+    font-weight: bold;
+    cursor: pointer;
+    }
+
+     
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 65%;
+    }
+
+    
+    input[type=file]::file-selector-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #1588f3;
+    font-weight: bold;
+    cursor: pointer; 
+    } 
+
+    
+    input[type="file" i] {
+    color: #fff
+    }
+    
+    body {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #fff;
+        color: #1588f3;
+        text-align: center;
+        width: 60%;
+        margin: 0 auto;
+        padding: 20px;
+        text-align: center;
+    }
